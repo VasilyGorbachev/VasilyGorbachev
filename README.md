@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am an undergraduate student of Mathematics at Sepuluh Nopember Institute of Technology. I am a person who is passionate about various aspects such as organization, leadership, and other activities. I have a big interest in Data Analytical and Mathematical Programming. Being a Mathematics student made me look for a way to solve every problem I faced.
+
+<p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VasilyGorbachev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VasilyGorbachev&layout=compact&theme=algolia"/>
+</a>
+</p>
